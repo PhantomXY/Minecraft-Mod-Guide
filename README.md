@@ -23,6 +23,7 @@ A Minecraft Fabric 1.19.1 Mod Performance Guide
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu/files)  
   >Adds a screen for viewing a list of installed mods.
 
+---
 
 ### Performance
 
@@ -33,6 +34,7 @@ A Minecraft Fabric 1.19.1 Mod Performance Guide
 
 
 
+---
 
 ### Quality of Life
 
@@ -50,3 +52,5 @@ A Minecraft Fabric 1.19.1 Mod Performance Guide
   >Adds a self-writing minimap.
 * [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)
   >Adds a self-writing fullscreen map.
+
+---
