@@ -41,7 +41,7 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
   >Rendering optimisation mod for [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium/files).
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files)
   >Defers unnecessary initialization work so that it is only performed if required.
-* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files) ⚠ 
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files) 
   >Improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior.
 * [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix/files)
   >Fixes multiple memory leaks in minecraft.
