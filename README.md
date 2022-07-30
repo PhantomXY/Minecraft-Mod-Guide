@@ -78,4 +78,6 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
 
 ---
 
-## [More Minecraft Mods](https://github.com/Code-Moss/Sexycraft-Plus)
+### [More Minecraft Mods](https://github.com/Code-Moss/Sexycraft-Plus)
+
+---
