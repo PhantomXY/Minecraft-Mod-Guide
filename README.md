@@ -1,7 +1,7 @@
 # Minecraft-Mod-Guide
 A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.bell-sw.com/java/8u333+2/bellsoft-jre8u333+2-windows-amd64-full.msi) [Fabric](https://fabricmc.net/use/installer/) 1.19.1 Mod Performance Guide
 
-
+⚠-Doesn't work on latest version at the moment.
 
 ### Framework / Libraries
 
