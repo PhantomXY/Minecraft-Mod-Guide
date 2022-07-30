@@ -31,12 +31,16 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
   >Clumps groups XP orbs together into a single entity to reduce lag.
 * [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader/files)
   >Accelerates asset loading system by caching all of its content for a much faster game load.
+* [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files)
+  >Reduces the speed at which minecraft renders when it's not focused.
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling/files)
   >Skip rendering Block/Entities that are not visible.
 * [FastChest](https://github.com/FakeDomi/FastChest/releases)
   >Removing dynamic models from chests and making them render as static chunk geometry.
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/files)
   >Reduces the memory usage of Minecraft in a few different ways.
+* [ForgetMeChunk](https://www.curseforge.com/minecraft/mc-mods/forgetmechunk/files)
+  >Prevents light map unloads on the client, this eliminates the fps drops caused by crossing certain chunk borders.
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium/files)
   >Rendering optimisation mod for [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium/files).
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files)
