@@ -38,7 +38,7 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/files)
   >Reduces the memory usage of Minecraft in a few different ways
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium/files)
-  >Indium is an addon for the rendering optimisation mod [Sodium]()
+  >Indium is an addon for the rendering optimisation mod [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files)
   >LazyDFU is an optimization mod for Minecraft that defers unnecessary initialization work so that it is only performed if required.
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files)
