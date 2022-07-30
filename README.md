@@ -35,3 +35,18 @@ A Minecraft Fabric 1.19.1 Mod Performance Guide
 
 
 ### Quality of Life
+
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin/files)
+  >Adds food value information and visualization of saturation and exhaustion to the HUD.
+* [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3/files)
+  >BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/files)
+  >Adds dynamic lights to the game.
+* [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes/files)
+  >Improves crashes in Minecraft.
+* [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify/files)
+  >A zoom mod with infinite customizability.
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files)
+  >Adds a self-writing minimap.
+* [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files)
+  >Adds a self-writing fullscreen map.
