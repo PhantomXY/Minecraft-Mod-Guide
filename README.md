@@ -77,3 +77,5 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
   >Adds a self-writing fullscreen map.
 
 ---
+
+## [More Minecraft Mods](https://github.com/Code-Moss/Sexycraft-Plus)
