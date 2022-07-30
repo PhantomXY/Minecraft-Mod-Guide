@@ -41,7 +41,7 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
   >Indium is an addon for the rendering optimisation mod [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files)
   >LazyDFU is an optimization mod for Minecraft that defers unnecessary initialization work so that it is only performed if required.
-* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files)⚠⚠⚠ 
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files) ⚠ 
   >Improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior.
 * [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix/files)
   >A mod that fixes multiple memory leaks in minecraft.
