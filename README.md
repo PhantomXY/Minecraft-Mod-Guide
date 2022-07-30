@@ -27,12 +27,35 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
 
 ### Performance
 
-
-
-
-
-
-
+* [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/files)
+  >Clumps groups XP orbs together into a single entity to reduce lag.
+* [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader/files)
+  >This mod accelerates the Minecraft Asset Loading system by caching all of its content, This leads to a much faster game load.
+* [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling/files)
+  >Skip rendering Block/Entities that are not visible.
+* [FastChest](https://github.com/FakeDomi/FastChest/releases)
+  >Removing dynamic models from chests and making them render as static chunk geometry.
+* [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/files)
+  >Reduces the memory usage of Minecraft in a few different ways
+* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium/files)
+  >Indium is an addon for the rendering optimisation mod [Sodium]()
+* [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files)
+  >LazyDFU is an optimization mod for Minecraft that defers unnecessary initialization work so that it is only performed if required.
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files)
+  >Improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior.
+* [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix/files)
+  >A mod that fixes multiple memory leaks in minecraft.
+* [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling/files)
+  >A mod that changes how multiple types of culling are handled in order to improve performance.
+  >(Culling is when you don't render things that the player can't see, to improve performance)
+* [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor/files)
+  >Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas-- the lighting engine.
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
+  >Greatly improves frame rates and stuttering while fixing many graphical issues.
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files)
+  >Visual bug fixes and other performance options that are not yet available on Sodium.
+* [Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options/files)
+  >Replaces Sodium's Options Screen with intention of improving UX.
 
 ---
 
