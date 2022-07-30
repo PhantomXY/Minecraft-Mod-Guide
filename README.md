@@ -15,7 +15,6 @@ A [Minecraft](https://skmedix.pl/sklauncher/downloads) [Java](https://download.b
   >Cloth Config API is a config screen api. 
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity/files)
   >Modern APIs to allow for the most efficient connected textures experience possible.
-  >
   >(Continuity will not work without the Indium mod if Sodium is installed.)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
   >Core library for the most common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
